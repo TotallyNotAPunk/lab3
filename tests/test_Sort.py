@@ -1,4 +1,4 @@
-import src.my_lib as my_lib
+import my_lib
 import pytest
 # Тест функции, которая проверяет, что значения во входном списке упорядочены от мин к макс
 

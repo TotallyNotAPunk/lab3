@@ -1,8 +1,8 @@
 import my_lib
 import pytest
-import Tests.testFib as testFib
-import Tests.testCalc as testCalc
-import Tests.testSort as testSort
+import tests.test_Fib as testFib
+import tests.test_Calc as testCalc
+import tests.test_Sort as testSort
 
 if __name__ == '__main__':
     #Тест функции, которая выводит первые "n" чисел Фибоначчи

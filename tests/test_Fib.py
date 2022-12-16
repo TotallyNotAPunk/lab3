@@ -1,4 +1,4 @@
-import src.my_lib as my_lib
+import my_lib
 import pytest
 # Тест функции, которая выводит первые "n" чисел Фибоначчи
 
